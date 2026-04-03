@@ -1,8 +1,8 @@
 # Hi, I’m Fazel 👋
 
 ### 🌟 About Me
-I’m passionate about **machine learning, deep learning, and data analytics**.  
-Currently expanding my knowledge in **data science** through hands-on projects and self-learning.
+I’m passionate about **machine learning, deep learning, data analytics, and business intelligence**.  
+Currently working as a **Data Analyst** and expanding my knowledge in **data science and data engineering** through hands-on projects, self-learning, and exploring BI tools like **Tableau** and **Power BI**.
 
 ### 💡 What I’m Doing
 - Exploring **ML/DL algorithms**, **data visualization**, and **predictive modeling**  
@@ -14,7 +14,7 @@ I’m open to collaborating on **innovative data science projects** or contribut
 
 ### 📫 Connect with Me
 - Email: [fazel.izadpanah@gmail.com](mailto:fazel.izadpanah@gmail.com)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/Fazelip](https://github.com/Fazelip)
 
 ---
 
